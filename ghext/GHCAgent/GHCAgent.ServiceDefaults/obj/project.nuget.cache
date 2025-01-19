@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xQwWKMj4DxY=",
+  "dgSpecHash": "Kj/mMKtWlVQ=",
   "success": true,
-  "projectFilePath": "/Users/lokinfey/Desktop/MultiAIAgent/ghcextension/GHCAgentExt/api/GHCAgent/GHCAgent.ServiceDefaults/GHCAgent.ServiceDefaults.csproj",
+  "projectFilePath": "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.ServiceDefaults/GHCAgent.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "/Users/lokinfey/.nuget/packages/google.protobuf/3.22.5/google.protobuf.3.22.5.nupkg.sha512",
     "/Users/lokinfey/.nuget/packages/grpc.core.api/2.52.0/grpc.core.api.2.52.0.nupkg.sha512",

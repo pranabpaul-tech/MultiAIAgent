@@ -2158,11 +2158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lokinfey/Desktop/MultiAIAgent/ghcextension/GHCAgentExt/api/GHCAgent/GHCAgent.ServiceDefaults/GHCAgent.ServiceDefaults.csproj",
+      "projectUniqueName": "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.ServiceDefaults/GHCAgent.ServiceDefaults.csproj",
       "projectName": "GHCAgent.ServiceDefaults",
-      "projectPath": "/Users/lokinfey/Desktop/MultiAIAgent/ghcextension/GHCAgentExt/api/GHCAgent/GHCAgent.ServiceDefaults/GHCAgent.ServiceDefaults.csproj",
+      "projectPath": "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.ServiceDefaults/GHCAgent.ServiceDefaults.csproj",
       "packagesPath": "/Users/lokinfey/.nuget/packages/",
-      "outputPath": "/Users/lokinfey/Desktop/MultiAIAgent/ghcextension/GHCAgentExt/api/GHCAgent/GHCAgent.ServiceDefaults/obj/",
+      "outputPath": "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.ServiceDefaults/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lokinfey/.nuget/NuGet/NuGet.Config"

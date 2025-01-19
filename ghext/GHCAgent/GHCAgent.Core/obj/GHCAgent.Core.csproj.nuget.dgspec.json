@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.ServiceDefaults/GHCAgent.ServiceDefaults.csproj": {}
+    "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.Core/GHCAgent.Core.csproj": {}
   },
   "projects": {
-    "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.ServiceDefaults/GHCAgent.ServiceDefaults.csproj": {
+    "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.Core/GHCAgent.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.ServiceDefaults/GHCAgent.ServiceDefaults.csproj",
-        "projectName": "GHCAgent.ServiceDefaults",
-        "projectPath": "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.ServiceDefaults/GHCAgent.ServiceDefaults.csproj",
+        "projectUniqueName": "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.Core/GHCAgent.Core.csproj",
+        "projectName": "GHCAgent.Core",
+        "projectPath": "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.Core/GHCAgent.Core.csproj",
         "packagesPath": "/Users/lokinfey/.nuget/packages/",
-        "outputPath": "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.ServiceDefaults/obj/",
+        "outputPath": "/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lokinfey/.nuget/NuGet/NuGet.Config"
@@ -45,33 +45,17 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.Extensions.Http.Resilience": {
+            "Azure.AI.Inference": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[1.0.0-beta.2, )"
             },
-            "Microsoft.Extensions.ServiceDiscovery": {
+            "Azure.AI.Projects": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[1.0.0-beta.2, )"
             },
-            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+            "Azure.Identity": {
               "target": "Package",
-              "version": "[1.9.0, )"
-            },
-            "OpenTelemetry.Extensions.Hosting": {
-              "target": "Package",
-              "version": "[1.9.0, )"
-            },
-            "OpenTelemetry.Instrumentation.AspNetCore": {
-              "target": "Package",
-              "version": "[1.9.0, )"
-            },
-            "OpenTelemetry.Instrumentation.Http": {
-              "target": "Package",
-              "version": "[1.9.0, )"
-            },
-            "OpenTelemetry.Instrumentation.Runtime": {
-              "target": "Package",
-              "version": "[1.9.0, )"
+              "version": "[1.13.2, )"
             }
           },
           "imports": [
@@ -86,9 +70,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
