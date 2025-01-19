@@ -24,7 +24,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GHCAgent.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+919af9ae15ed6a4bbc6d61aae8970fc7821e62d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+519804c04557174db81a9aab1e6f18bb5adaf564")]
 [assembly: System.Reflection.AssemblyProductAttribute("GHCAgent.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GHCAgent.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
