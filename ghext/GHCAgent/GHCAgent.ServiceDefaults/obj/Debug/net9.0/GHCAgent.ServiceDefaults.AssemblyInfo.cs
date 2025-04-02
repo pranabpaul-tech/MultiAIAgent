@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GHCAgent.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+519804c04557174db81a9aab1e6f18bb5adaf564")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8d9b6f9d8beb59fee97c1ad914f1c84e185967e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GHCAgent.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GHCAgent.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class GHCAgent_Orchestration_API : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.Orchestration.API/GHCAgent.Orchestration.API.csproj""";
+    public string ProjectPath => """C:\Users\pranabp\source\repos\IBM\MultiAIAgent\ghext\GHCAgent\GHCAgent.Orchestration.API\GHCAgent.Orchestration.API.csproj""";
 }

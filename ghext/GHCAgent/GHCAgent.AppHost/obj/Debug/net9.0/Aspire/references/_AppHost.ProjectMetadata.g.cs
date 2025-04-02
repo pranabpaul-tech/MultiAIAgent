@@ -8,5 +8,5 @@ namespace Projects;
 public class GHCAgent_AppHost
 {
     private GHCAgent_AppHost() { }
-    public static string ProjectPath => """/Users/lokinfey/Desktop/MultiAIAgent/ghext/GHCAgent/GHCAgent.AppHost""";
+    public static string ProjectPath => """C:\Users\pranabp\source\repos\IBM\MultiAIAgent\ghext\GHCAgent\GHCAgent.AppHost""";
 }
